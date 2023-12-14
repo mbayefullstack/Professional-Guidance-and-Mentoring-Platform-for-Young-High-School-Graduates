@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-connexion {
+    width: 20vw;
+    height: 10vh;
+}
+
+.button-connexion {
+    width: 20vw;
+    height: 5vh;
+}
+
+.d-flex {
+    display: flex;
+}
+.jcc {
+    justify-content: center;
+}
+
+.jcsa {
+    justify-content: space-around;
+}
+.alic {
+    align-items: center;
+}
+.fdc {
+    flex-direction: column;
+}

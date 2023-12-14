@@ -1,0 +1,22 @@
+
+.container {
+    width: 80vw;
+    height: 80vh;
+    background-color: #3498DB;
+    border-radius: 20px;
+}
+
+body {
+    height: 100vh;
+}
+.picture {
+    width: 45%;
+    height: 90%;
+    background-image: url(../images/connexion.jpg);
+    background-size: cover;
+}
+/* .lo    width: 25%;
+    border-radius: 20px;
+    height: 80%;
+    background-color: #fff;
+}gin { */
